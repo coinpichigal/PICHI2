@@ -9,3 +9,5 @@ ko
 koro
 pl:
 ooo
+keyUsage         = digitalSignature
+extendedKeyUsage = codeSning
